@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javaSE,SSM.
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me ...No way hahhhhh
+- 日志記錄
 
 <!---
 Legacy-OS/Legacy-OS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
